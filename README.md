@@ -15,9 +15,7 @@ My personal customized build of `st`, the simple terminal emulator for X.
 Make sure you have Xlib header files installed on your system. 
 
 ```sh
-# Clone your repository (or navigate to your local folder)
-git clone [https://github.com/Dante-Varro/st.git](https://github.com/Dante-Varro/st.git)
+git clone https://github.com/Dante-Varro/st.git
 cd st
 
-# Build and install (may require sudo depending on your prefix in config.mk)
 sudo make clean install
