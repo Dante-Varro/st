@@ -7,7 +7,7 @@ My personal customized build of `st`, the simple terminal emulator for X.
 ## Features & Patches Included
 * **`anysize`** — Allows the terminal window to resize freely to any pixel dimension rather than snapping strictly to character grid increments.
 * **`alpha`** — Adds adjustable window transparency.
-* **`scrollback`** — Enables history scrolling with the keyboard/mouse, reflowing text dynamically when the window size changes.
+* **`scrollback`** — Enables history scrolling with the mouse, reflowing text dynamically when the window size changes.
 ---
 
 ## Installation
